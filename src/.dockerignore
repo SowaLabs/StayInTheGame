@@ -1,0 +1,21 @@
+# Docker
+**/.dockerignore
+**/.env
+**/Dockerfile
+**/*.Dockerfile
+**/docker-compose.yml
+**/docker-compose.*.yml
+# Git 
+**/.gitignore
+**/.git
+# VS
+**/bin
+**/obj
+**/.vs
+**/packages
+**/*.user
+**/*.suo
+**/appsettings.*.json
+**/appsettings.json
+# Other
+**/*.bak
